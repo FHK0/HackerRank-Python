@@ -9,9 +9,9 @@ if __name__ == '__main__':
     b = int(input())
     print(f"{a + b}\n{a - b}\n{a * b}")
     
-    """
-    Alternative Solution:
     
+#  Alternative Solution:
+    """
     print(a + b)
     print(a - b)
     print(a * b)  
